@@ -1,0 +1,14 @@
+'''Goal: Initialize x — 100 and y = 200. Swap their values so x becomes 200 and y becomes 100.
+Constraint: You must do this in exactly one line of code. Do not use a temporary variable (e.g., temp = x).'''
+
+x = 100
+y = 200
+
+print("X before swap: ",x)
+print("Y before swap: ",y)
+
+x,y = y,x
+
+print("X after swap: ",x)
+print("Y after swap: ",y)
+
