@@ -1,0 +1,5 @@
+* Day-01(The Environment & Building Block - Python)
+    *Swaping numbers
+    *Type casting
+    *Float precision
+    *Floor division operator and modulo operator
