@@ -1,4 +1,4 @@
-# DataScientist_Jurney
+<center> DataScientist_Jurney </center>
 120-Day Job Crack Challenge Starts!
 
 * Author: Sharna Rani Paul
